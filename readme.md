@@ -17,4 +17,4 @@ Express JS, Passport JS, nodemon, bcrypt.
 
  <img src="./usermanagement1.png" width="1280"/>
   <img src="./usermanagement2.png" width="1280"/>
-   <img src=".usermanagement3.png" width="1280"/>
+   <img src="./usermanagement3.png" width="1280"/>
